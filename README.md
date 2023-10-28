@@ -1,2 +1,1 @@
-# heroku_aml_server
- 
+# aml-server
